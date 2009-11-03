@@ -3,7 +3,6 @@ Author: Marcus Meng
 CSS: http://static.broken-mirror.net/css/main.css
 XHTML XSLT: xhtml-static-site
 
-# Stuff and Nonsense #
 ## Various oddments! ##
 
 [Currently playing stream](http://chaos.broken-mirror.net:8000/current.ogg). Contains whatever my music player at home is running. Isn't guarunteed to be on all the time.
@@ -11,12 +10,6 @@ XHTML XSLT: xhtml-static-site
 This site is pretty much a placeholder until I can get something more interesting up and running. There's a [blog](http://blog.broken-mirror.net) if you're bored.
 
 You can grab my public key [here](http://static.broken-mirror.net/public.key).
-
-A bit of stuff about [games](games/).
-
-Some [school stuff](school/).
-
-Some random links can be found [here](links.html).
 
 Feel free to call or leave a message for me:
 
