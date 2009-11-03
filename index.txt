@@ -1,6 +1,7 @@
 Title: Stuff and Nonsense
 Author: Marcus Meng
 CSS: http://static.broken-mirror.net/css/main.css
+XHTML XSLT: xhtml-static-site
 
 # Stuff and Nonsense #
 ## Various oddments! ##

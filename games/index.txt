@@ -1,6 +1,7 @@
 Title: Broken Mirror -- Games
 Author: Marcus Meng
 CSS: http://static.broken-mirror.net/css/main.css
+XHTML XSLT: xhtml-static-site
 
 # Games #
 ## Fun stuff that we all love. ##

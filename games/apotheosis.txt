@@ -1,6 +1,7 @@
 Title: Apotheosis
 Author: Kasumi
 CSS: http://static.broken-mirror.net/css/main.css
+XHTML XSLT: xhtml-static-site
 
 # Apotheosis #
 

@@ -1,6 +1,7 @@
 Title: Page not found!
 Author: Marcus Meng
 CSS: http://static.broken-mirror.net/css/main.css
+XHTML XSLT: xhtml-static-site
 
 # Error 404 #
 ## Page not found! ##

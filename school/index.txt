@@ -1,6 +1,7 @@
 Title: Broken Mirror -- Schoolwork
 Author: Marcus Meng
 CSS: http://static.broken-mirror.net/css/main.css
+XHTML XSLT: xhtml-static-site
 
 # Schoolwork #
 ## Studies, knowledge, and all that sorta thing. ##
@@ -11,21 +12,5 @@ This place is mostly for me to keep stuff so that I don't forget things.
 
 #### HIS100 ####
 
-Presentation on Qin Dynasty book burnings is here. The text is available [here](http://docs.google.com/View?id=dgnq965s_72hjxm2vhp).
-
-<iframe src="http://docs.google.com/present/embed?id=dgnq965s_73c54n2dfv&interval=60" frameborder="0" width="410" height="342"></iframe>
-
-#### GAM100 ####
-
-Game concept presentation:
-
-<iframe src="http://docs.google.com/present/embed?id=dgnq965s_75gp7w67fc&interval=30" frameborder="0" width="410" height="342"></iframe>
-
-Synaesthete review is [here](http://docs.google.com/View?id=dgnq965s_65fr2tgwg2).
-
-The Synaesthete presentation is here. Don't forget to fullscreen it!
-
-<iframe src="http://docs.google.com/present/embed?id=dgnq965s_66f94q5cv4" frameborder="0" width="410" height="342"></iframe>
-
-And [here's](http://static.broken-mirror.net/images/schoolwork/synaesthete_screenshot01.png) a screenshot to complete it.
+Presentation on Qin Dynasty book burnings is [here](http://docs.google.com/present/view?id=dgnq965s_73c54n2dfv). The text is available [here](http://docs.google.com/View?id=dgnq965s_72hjxm2vhp).
 

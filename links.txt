@@ -1,6 +1,7 @@
 Title: Broken Mirror -- Links
 Author: Marcus Meng
 CSS: http://static.broken-mirror.net/css/main.css
+XHTML XSLT: xhtml-static-site
 
 # Various Links #
 ## Curiousities and such things. ##
