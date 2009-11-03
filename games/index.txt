@@ -3,7 +3,6 @@ Author: Marcus Meng
 CSS: http://static.broken-mirror.net/css/main.css
 XHTML XSLT: xhtml-static-site
 
-# Games #
 ## Fun stuff that we all love. ##
 
 There really isn't much in this section, is there?

@@ -3,7 +3,6 @@ Author: Marcus Meng
 CSS: http://static.broken-mirror.net/css/main.css
 XHTML XSLT: xhtml-static-site
 
-# Schoolwork #
 ## Studies, knowledge, and all that sorta thing. ##
 
 This place is mostly for me to keep stuff so that I don't forget things.
