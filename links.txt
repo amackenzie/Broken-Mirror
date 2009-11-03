@@ -1,0 +1,18 @@
+Title: Broken Mirror -- Links
+Author: Marcus Meng
+CSS: http://static.broken-mirror.net/css/main.css
+
+# Various Links #
+## Curiousities and such things. ##
+
+These are generally disorganized, and are mostly here because I found
+something amusing.
+
+* [Learn Lojban!](http://www.lojban.org)
+* [50 Years of Stupid Grammar Advice](http://chronicle.com/free/v55/i32/32b01501.htm)
+* [Ren'py Visual Novel Engine](http://www.renpy.org/wiki/renpy/Home_Page)
+* [Using VIM as a manpage reader](http://forums.gentoo.org/viewtopic.php?t=80756)
+* [How to read those weird ASCII characters](http://www.codinghorror.com/blog/archives/001133.html)
+* [An interview with... Wolfram Alpha?](http://www.revisemri.com/blog/2009/an-interview-with-wolframalpha/)
+* [Inspiration for setting up the page with what it has.](http://fletcherpenney.net/colophon/)
+

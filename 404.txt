@@ -1,0 +1,15 @@
+Title: Page not found!
+Author: Marcus Meng
+CSS: http://static.broken-mirror.net/css/main.css
+
+# Error 404 #
+## Page not found! ##
+
+Oh dear, the page isn't showing up. Perhaps the URL is wrong, or whatever you thought was here has been moved or deleted.
+
+Maybe you should head back to the [top](http://www.broken-mirror.net)?
+
+![Satori isn't sure!][satorin]
+
+[satorin]: http://static.broken-mirror.net/images/touhou/satorin.png "Can't... figure out what you wanted!"
+

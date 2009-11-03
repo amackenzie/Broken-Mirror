@@ -1,0 +1,23 @@
+Title: Stuff and Nonsense
+Author: Marcus Meng
+CSS: http://static.broken-mirror.net/css/main.css
+
+# Stuff and Nonsense #
+## Various oddments! ##
+
+[Currently playing stream](http://chaos.broken-mirror.net:8000/current.ogg). Contains whatever my music player at home is running. Isn't guarunteed to be on all the time.
+
+This site is pretty much a placeholder until I can get something more interesting up and running. There's a [blog](http://blog.broken-mirror.net) if you're bored.
+
+You can grab my public key [here](http://static.broken-mirror.net/public.key).
+
+A bit of stuff about [games](games/).
+
+Some [school stuff](school/).
+
+Some random links can be found [here](links.html).
+
+Feel free to call or leave a message for me:
+
+<object type="application/x-shockwave-flash" data="https://clients4.google.com/voice/embed/webCallButton" width="230" height="85"><param name="movie" value="https://clients4.google.com/voice/embed/webCallButton" /><param name="wmode" value="transparent" /><param name="FlashVars" value="id=ccc1e798d15dd842efd8f345237251407bab338e&style=0" /></object>
+
