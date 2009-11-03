@@ -1,4 +1,4 @@
-Title: Broken Mirror -- Schoolwork
+Title: Schoolwork
 Author: Marcus Meng
 CSS: http://static.broken-mirror.net/css/main.css
 XHTML XSLT: xhtml-static-site
