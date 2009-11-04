@@ -3,7 +3,7 @@ Author: Kasumi
 CSS: http://static.broken-mirror.net/css/main.css
 XHTML XSLT: xhtml-static-site
 
-This was taken from <http://forum.rpg.net/showthread.php?t=282399>. This is all Kasumi's work, I merely copied it here for personal archival purposes.
+This was taken from [an RPG.net thread on the topic](http://forum.rpg.net/showthread.php?t=282399). This is all Kasumi's work, I merely copied it here for personal archival purposes.
 
 Exalted: Apotheosis is a toolkit for kicking off an Exalted campaign featuring a powerful and established circle of Solar Exalted PCs. It is intended for groups wanting to play characters who have already achieved great things in Creation, and are on the cusp of truly epic deeds. Apotheosis provides a framework for establishing the history of the circle, how their triumphs have changed the setting, and the conflicts that will shape their first few sessions of play, as well as presenting a streamlined and balanced character creation system for experienced Solars.
 
