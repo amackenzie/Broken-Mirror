@@ -11,11 +11,12 @@ People ask about how to read files from their C text-based stuff. Easiest way
 for small-ish files is to just stick the whole thing into a buffer into
 memory. The rough code for doing that is something like...
 
-	#include <stdio.h>
+	#include <stdio.h> /* File stuff. */
+	#include <stdlib.h> /* Memory management stuff (malloc!) */
 
-	FILE *working_file;
-	long file_length;
-	char* buffer;
+	FILE *working_file; /* Our file handle. */
+	long file_length; /* Can get very big. Use a long! */
+	char* buffer; /* This is where our data will end up. */
 
 	working_file = fopen("/path/to/file.txt", "rb");
 	fseek(working_file, 0, SEEK_END_); /* Set seek to end of file. */
