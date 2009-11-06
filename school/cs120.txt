@@ -20,7 +20,7 @@ memory. The rough code for doing that is something like...
 
 	/* Note that the file is opened rb -- read, and in binary form.
 	 * The b tag is normally ignored by POSIX systems, but Windows and some
-	 * other odd compilers might have it make a different. Better to use it
+	 * other odd compilers might have it make a difference. Better to use it
 	 * to keep things consistent.
 	 * If a non-absolute file path is given, it'll be relative to where the
 	 * program is run.
