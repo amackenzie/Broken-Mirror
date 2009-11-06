@@ -1,0 +1,46 @@
+Title: CS120
+Author: Marcus Meng
+CSS: http://static.broken-mirror.net/css/main.css
+XHTML XSLT: xhtml-static-site
+
+# Notes #
+
+## Putting a file into a string in C ##
+
+People ask about how to read files from their C text-based stuff. Easiest way
+for small-ish files is to just stick the whole thing into a buffer into
+memory. The rough code for doing that is something like...
+
+	#include <stdio.h>
+
+	FILE *working_file;
+	long file_length;
+	char* buffer;
+
+	working_file = fopen("/path/to/file.txt", "rb");
+	fseek(working_file, 0, SEEK_END_); /* Set seek to end of file. */
+	/* Now to see how long the file is by checking where the seek is. */
+	file_length = ftell(working_file);
+	/* Put seek back at start of file. */
+	fseek(working_file, 0, SEEK_SET);
+
+	/* Allocate memory for the file based on the size. */
+	buffer = (char*)malloc(file_length);
+	fread(buffer, file_length, 1, working_file);
+
+	/* Close our file handle. */
+	fclose(working_file);
+
+This should work in most situations. It doesn't check for errors, but that's
+easy enough -- functions like fread and stuff return NULL if they run into
+weird conditions, so just test for it and toss out an error message.
+
+It's probably also a good idea to free() the buffer that you created at the
+end of the program, to release the memory used, though I'm not sure if the
+compiler will do that for you automatically. Something to keep in mind, at any
+rate.
+
+This will give you a really big string (buffer) that contains everything in
+the file, newlines and all. So if you want it in some other form, you can just
+parse the buffer and do stuff to it or whatnot.
+
