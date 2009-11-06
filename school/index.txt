@@ -3,15 +3,21 @@ Author: Marcus Meng
 CSS: http://static.broken-mirror.net/css/main.css
 XHTML XSLT: xhtml-static-site
 
-## Studies, knowledge, and all that sorta thing. ##
+# Studies, knowledge, and all that sorta thing. #
 
 This place is mostly for me to keep stuff so that I don't forget things.
 
 * [CS100](cs100.html) notes and stuff.
 
-### Class Presentations ###
+# Class Presentations #
 
-#### HIS100 ####
+## HIS100 ##
 
 Presentation on Qin Dynasty book burnings is [here](http://docs.google.com/present/view?id=dgnq965s_73c54n2dfv). The text is available [here](http://docs.google.com/View?id=dgnq965s_72hjxm2vhp).
+
+# Links #
+
+Various links related specifically to schoolwork or studies.
+
+* [Mead's CS Homepage](http://www.digipen.edu/~mmead/)
 
