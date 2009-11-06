@@ -7,9 +7,17 @@ XHTML XSLT: xhtml-static-site
 
 There really isn't much in this section, is there?
 
+## Tabletop RPGs ##
+
+Hmm.
+
 ### Exalted ###
 
 Archives of things from other places:
 
 * [Apotheosis](apotheosis.html), by Kasumi of RPG.net.
+
+## Touhou Project ##
+
+I've finally finished Subterranean Animism. Starting on Undefined Fantastic Object now!
 

@@ -1,0 +1,15 @@
+Title: CS100
+Author: Marcus Meng
+CSS: http://static.broken-mirror.net/css/main.css
+XHTML XSLT: xhtml-static-site
+
+# CS100 #
+
+## Computer Architecture ##
+
+The microprocessor in use is the PIC18f452.
+
+## Notes ##
+
+* 0x08 is the high priority interrupt address, 0x18 is the low priority.
+

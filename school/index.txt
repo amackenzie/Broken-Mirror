@@ -7,6 +7,8 @@ XHTML XSLT: xhtml-static-site
 
 This place is mostly for me to keep stuff so that I don't forget things.
 
+* [CS100](cs100.html) notes and stuff.
+
 ### Class Presentations ###
 
 #### HIS100 ####
