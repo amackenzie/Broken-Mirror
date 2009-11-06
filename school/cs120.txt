@@ -18,8 +18,16 @@ memory. The rough code for doing that is something like...
 	long file_length; /* Can get very big. Use a long! */
 	char* buffer; /* This is where our data will end up. */
 
+	/* Note that the file is opened rb -- read, and in binary form.
+	 * The b tag is normally ignored by POSIX systems, but Windows and some
+	 * other odd compilers might have it make a different. Better to use it
+	 * to keep things consistent.
+	 * If a non-absolute file path is given, it'll be relative to where the
+	 * program is run.
+	 */
 	working_file = fopen("/path/to/file.txt", "rb");
-	fseek(working_file, 0, SEEK_END_); /* Set seek to end of file. */
+	/* Set the seek point to the end of the file. */
+	fseek(working_file, 0, SEEK_END_);
 	/* Now to see how long the file is by checking where the seek is. */
 	file_length = ftell(working_file);
 	/* Put seek back at start of file. */
@@ -27,6 +35,7 @@ memory. The rough code for doing that is something like...
 
 	/* Allocate memory for the file based on the size. */
 	buffer = (char*)malloc(file_length);
+	/* Time to actually read everything into buffer. */
 	fread(buffer, file_length, 1, working_file);
 
 	/* Close our file handle. */
