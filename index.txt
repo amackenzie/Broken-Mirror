@@ -15,5 +15,8 @@ Other things here are pretty much snippets of stuff I pick up all over the
 place, and my notes on whatever I'm working on at the moment. It may be of
 some interest to... someone. Who knows.
 
+Also, yes, the weird typographic quotes and stuff sometimes don't show up
+right on some computers. I'm trying to think of what to do with them.
+
 You can grab my public key [here](http://static.broken-mirror.net/public.key).
 
