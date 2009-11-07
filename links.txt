@@ -3,10 +3,23 @@ Author: Marcus Meng
 CSS: http://static.broken-mirror.net/css/main.css
 XHTML XSLT: xhtml-static-site
 
-## Curiousities and such things. ##
+# Curiousities and such things. #
 
 These are generally disorganized, and are mostly here because I found
 something amusing.
+
+## Gaming ##
+
+* [Doom3World](http://www.doom3world.org
+* [RPG.net](http://www.rpg.net)
+* [Gensokyo.org](http://www.gensokyo.org)
+
+## Computer Stuff ##
+
+* [Gentoo Linux](http://www.gentoo.org)
+* [FreeBSD](http://www.freebsd.org)
+
+## Disorganized ##
 
 * [Learn Lojban!](http://www.lojban.org)
 * [50 Years of Stupid Grammar Advice](http://chronicle.com/free/v55/i32/32b01501.htm)
