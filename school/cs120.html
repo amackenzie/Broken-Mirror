@@ -21,6 +21,7 @@ memory. The rough code for doing that is something like…</p>
 
 <pre><code>#include &lt;stdio.h&gt; /* File stuff. */
 #include &lt;stdlib.h&gt; /* Memory management stuff (malloc!) */
+#include &lt;string.h&gt; /* For memset(). */
 
 FILE *working_file; /* Our file handle. */
 long file_length; /* Can get very big. Use a long! */
@@ -41,8 +42,9 @@ file_length = ftell(working_file);
 /* Put seek back at start of file. */
 fseek(working_file, 0, SEEK_SET);
 
-/* Allocate memory for the file based on the size. */
-buffer = (char*)malloc(file_length);
+/* Allocate memory for the file based on the size. +1 for the \0.  */
+buffer = (char*)malloc(file_length + 1);
+memset(buffer, '\0', file_length + 1);
 /* Time to actually read everything into buffer. */
 fread(buffer, file_length, 1, working_file);
 
@@ -60,6 +62,9 @@ rate.</p>
 
 <p>This will give you a really big string (buffer) that contains everything in
 the file, newlines and all. So if you want it in some other form, you can just
-parse the buffer and do stuff to it or whatnot.</p>
+parse the buffer and do stuff to it or whatnot. It should already be in a
+printable or manipulatable form. If you do not actually need it to be treated
+as a string, leave off the extra +1 from the malloc, so that it doesn’t store
+the terminating character.</p>
 <!--#include virtual="/templates/footer.html" --></body>
 </html>
