@@ -1,0 +1,25 @@
+Title: Alchemist's Atelier
+Author: Marcus Meng
+CSS: http://static.broken-mirror.net/css/main.css
+XHTML XSLT: xhtml-static-site
+
+This is a puzzle game. The basic concept of the game is that the players have
+access to an atelier, represented by a diagram resembling a circuit board.
+Individual components apply properties to the output of the circuit, but
+effectively using these components require proper use of intermediate systems
+(similar to the roles of diodes, transisters, relays, and similar
+constructions in electronics). Each of the intermediate components may also
+apply or suppress effects that are passing through them.
+
+The general effects that the intermediate components affect may be determined
+by a construction similar to the Wu Xing, where certain elements are stoked
+or suppressed according to a pattern.
+
+The victory condition for each puzzle unit are a set of requirements for the
+output. The output must maintain a minimum (and/or occasionally, a maximum)
+power level, and will require certain effects above and beyond that.
+
+Difficulty will scale by having more stringent power requirements on the
+output; by requiring that the output require more special properties; and by
+limiting the number of components available to the player.
+
