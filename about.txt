@@ -1,0 +1,7 @@
+Title: About Me
+Author: Marcus Meng
+CSS: http://static.broken-mirror.net/css/main.css
+XHTML XSLT: xhtml-static-site
+
+Not much to say here. I have a [DeviantArt](http://tenko-ninetails.deviantart.com), and I poke around on some various forums.
+
