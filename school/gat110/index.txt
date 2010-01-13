@@ -1,0 +1,20 @@
+Title: GAT100 Notes
+Author: Marcus Meng
+CSS: http://static.broken-mirror.net/css/main.css
+XHTML XSLT: xhtml-static-site
+
+# January 13, 2010 #
+
+## Games Require ##
+
+* Structure.
+* Victory conditions.
+** Understand why people do things - games need a reason to be played.
+** Gives people a goal and reason to feel good about it - payoff was bad, or
+too delayed, so that it didn't feel it was worth the trip.
+** Part of the payoff should be the journey up. Payoff being the end goal
+makes it have an, "Okay, now what?" feeling.
+
+A lot of older games make up the fundamental pieces of what we play now.
+
+
