@@ -9,10 +9,10 @@ XHTML XSLT: xhtml-static-site
 
 * Structure.
 * Victory conditions.
-** Understand why people do things - games need a reason to be played.
-** Gives people a goal and reason to feel good about it - payoff was bad, or
+* Understand why people do things - games need a reason to be played.
+* Gives people a goal and reason to feel good about it - payoff was bad, or
 too delayed, so that it didn't feel it was worth the trip.
-** Part of the payoff should be the journey up. Payoff being the end goal
+* Part of the payoff should be the journey up. Payoff being the end goal
 makes it have an, "Okay, now what?" feeling.
 
 A lot of older games make up the fundamental pieces of what we play now.
