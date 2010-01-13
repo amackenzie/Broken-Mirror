@@ -15,6 +15,24 @@ too delayed, so that it didn't feel it was worth the trip.
 * Part of the payoff should be the journey up. Payoff being the end goal
 makes it have an, "Okay, now what?" feeling.
 
+## Construction of Games ##
+
 A lot of older games make up the fundamental pieces of what we play now.
 
+Some games contain cultural transitions stemming back for long periods of
+time. Example -- taunting sound for hide and seek/tag, etc.
+
+Variations on games, ie, tag. Default rules: one person is it, tries to tag
+someone else. Different victory conditions: don't be it, be the last person to
+be tagged. More elaborate forms show up as well: zombies! Arguably, FPS
+deathmatches are a form of tag too, but with longer range attacks.
+
+Who makes games? People with time, safety, sufficient food, leisure time.
+Naturally, a lot of games just grow out organically from children playing; it
+tends to take someone in a position of power to be able to formally record
+rules or such.
+
+Once societies started specializing, more people started having more time they
+could work in. ie, shepherds could spend time thinking about stuff while they
+watched their sheep.
 
