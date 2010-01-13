@@ -1,0 +1,22 @@
+Title: New Player Notes
+Author: Marcus Meng
+CSS: http://static.broken-mirror.net/css/main.css
+XHTML XSLT: xhtml-static-site
+
+* Make sure tutorials are all turned on.
+* Buying items off the market puts the item in the station you bought it in.
+* Salvaging is not really worth it until level 3+ missions.
+* Looting stuff is questionable as far as money-making goes. High-meta items
+can sell quite well, but low-meta stuff is often worth more reprocessed than
+sold.
+* Certain enemies do specific types of damage. Adjust resistances accordingly.
+
+Enemy damage types:
+
+* Guristas: Kinetic/Thermal.
+* Sanshas: EM/Thermal.
+
+Some usual solo missioning progressions:
+
+* Caldari: Merlin > Kestrel > Caracal > Drake. Then goes into Tengu, Nighthawk for cruiser-hull endgame, or Raven > Raven Navy Issue > Golem for battleship/marauder endgame.
+

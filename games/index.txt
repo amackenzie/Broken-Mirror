@@ -19,9 +19,15 @@ Archives of things from other places:
 
 ## Computer Games ##
 
-Dragon Age! It eats my life!
+### EVE Online ###
 
-## Touhou Project ##
+My pilot name is Fuyuko Tsubame, a Caldari Achura. Currently flying the Drake
+that everyone does at this point, moving up to a Raven sometime soon.
+
+* [Lowsec Migration Checklist](eveonline/checklist.html)
+* [New Player Commentary and Notes](eveonline/notes.html)
+
+### Touhou Project ###
 
 I've finally finished Subterranean Animism. Starting on Undefined Fantastic Object now!
 

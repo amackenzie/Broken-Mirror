@@ -1,0 +1,9 @@
+Title: EVE Online
+Author: Marcus Meng
+CSS: http://static.broken-mirror.net/css/main.css
+XHTML XSLT: xhtml-static-site
+
+# Pilot #
+
+Fuyuko Tsubame, Caldari Achura.
+

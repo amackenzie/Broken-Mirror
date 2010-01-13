@@ -1,0 +1,8 @@
+Title: Lowsec Migration Checklist
+Author: Marcus Meng
+CSS: http://static.broken-mirror.net/css/main.css
+XHTML XSLT: xhtml-static-site
+
+This checklist is meant to assist in moving around in lowsec places. It is not
+comprehensive, and is still under construction.
+
