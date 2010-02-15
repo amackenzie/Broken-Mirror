@@ -15,8 +15,13 @@ Enemy damage types:
 
 * Guristas: Kinetic/Thermal.
 * Sanshas: EM/Thermal.
+* Blood Raiders: EM/Thermal.
 
 Some usual solo missioning progressions:
 
 * Caldari: Merlin > Kestrel > Caracal > Drake. Then goes into Tengu, Nighthawk for cruiser-hull endgame, or Raven > Raven Navy Issue > Golem for battleship/marauder endgame.
+
+Interface stuff:
+
+* You can hold down shift when dragging a location out of people and places to make duplicates of a bookmark.
 
