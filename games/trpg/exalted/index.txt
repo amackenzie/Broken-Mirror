@@ -1,0 +1,29 @@
+Title: Exalted
+Author: Marcus Meng
+CSS: http://static.broken-mirror.net/css/main.css
+XHTML XSLT: xhtml-static-site
+
+This area contains a smattering of house rules and other tidbits that get used
+in our games.
+
+# Changing the virtue system for non-Raksha games. #
+
+One issue that many players came up with is the nature of the virtue system.
+It works as presented, however, some aspects of it are not intuitive for
+certain types of players, and so, here is an alternative means of adjudicating
+virtue-type mechanics.
+
+Start by scrapping the default compassion/conviction/temperence/valor tracks.
+Instead, have each player pick 4-5 concepts core to their character. These
+concepts can be embodied as people, ideals, or whatnot. For example...
+
+* I wish to protect my father.
+* I refuse to bow down to an opponent.
+* My martial art is undefeatable.
+
+One then assigns a 1-5 rating to the concepts that the players have picked.
+The character in question must supress these concepts to take actions that go
+against them. If the concepts are suppressed, the character's perfect defenses
+that would otherwise suffer a flaw of invulnerability insteads takes a mote
+penalty of 1 mote per suppressed concept.
+

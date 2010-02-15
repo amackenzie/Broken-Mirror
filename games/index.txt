@@ -16,13 +16,14 @@ Hmm.
 Archives of things from other places:
 
 * [Apotheosis](apotheosis.html), by Kasumi of RPG.net.
+* [Other stuff.](trpg/exalted)
 
 ## Computer Games ##
 
 ### EVE Online ###
 
-My pilot name is Fuyuko Tsubame, a Caldari Achura. Currently flying the Drake
-that everyone does at this point, moving up to a Raven sometime soon.
+My pilot name is Fuyuko Tsubame, a Caldari Achura. Currently a Raven pilot,
+with some crossover into Amarr ships.
 
 * [Lowsec Migration Checklist](eveonline/checklist.html)
 * [New Player Commentary and Notes](eveonline/notes.html)
