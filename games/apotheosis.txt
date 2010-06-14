@@ -3,17 +3,23 @@ Author: Kasumi
 CSS: http://static.broken-mirror.net/css/main.css
 XHTML XSLT: xhtml-static-site
 
-This was taken from [an RPG.net thread on the topic](http://forum.rpg.net/showthread.php?t=282399). This is all Kasumi's work, I merely copied it here for personal archival purposes.
+This was taken from [an RPG.net thread on the topic](http://forum.rpg.net/showthread.php?t=282399).
+This is all Kasumi's work, I merely copied it here for personal archival purposes.
 
-Exalted: Apotheosis is a toolkit for kicking off an Exalted campaign featuring a powerful and established circle of Solar Exalted PCs. It is intended for groups wanting to play characters who have already achieved great things in Creation, and are on the cusp of truly epic deeds. Apotheosis provides a framework for establishing the history of the circle, how their triumphs have changed the setting, and the conflicts that will shape their first few sessions of play, as well as presenting a streamlined and balanced character creation system for experienced Solars.
+Exalted: Apotheosis is a toolkit for kicking off an Exalted campaign featuring a powerful and established circle of Solar Exalted PCs.
+It is intended for groups wanting to play characters who have already achieved great things in Creation, and are on the cusp of truly epic deeds.
+Apotheosis provides a framework for establishing the history of the circle, how their triumphs have changed the setting, and the conflicts that will shape their first few sessions of play, as well as presenting a streamlined and balanced character creation system for experienced Solars.
 
-The default assumption of Apotheosis is that the Circle has, prior to play, achieved the equivalent of a medium length campaign (up to 100-150XP) or received advanced training (such as training provided by the Cult of the Illuminated). Mechanically it extends the material presented in Cult of the Illuminated for Exalted (first edition).
+The default assumption of Apotheosis is that the Circle has, prior to play, achieved the equivalent of a medium length campaign (up to 100-150XP) or received advanced training (such as training provided by the Cult of the Illuminated).
+Mechanically it extends the material presented in Cult of the Illuminated for Exalted (first edition).
 
 This toolkit works best with players already familiar with the Exalted setting and system.
 
 ## Setting Creation Afire ##
 
-Starting a campaign with the Apotheosis toolkit gives you an approximation of the weight of conflict, personalised setting and player investment provided by actually playing through a short-medium campaign. That’s serious stuff! There’s two very important things you need to do to get the best results from the process:
+Starting a campaign with the Apotheosis toolkit gives you an approximation of the weight of conflict, personalised setting and player investment provided by actually playing through a short-medium campaign.
+That’s serious stuff!
+There’s two very important things you need to do to get the best results from the process:
 
 1. Set aside an entire session for creating the campaign. This will include character creation, so give yourself several hours. Bring food!
 2. Don’t have any ideas set in stone before the campaign creation session.

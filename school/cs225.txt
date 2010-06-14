@@ -1,0 +1,18 @@
+Title: CS225
+Author: Marcus Meng
+CSS: http://static.broken-mirror.net/css/main.css
+XHTML XSLT: xhtml-static-site
+
+# Notes #
+
+## Struct Alignment ##
+
+Structs are evil and don't necessarily add up to the size of the components.
+There are speed benefits in terms of data access to having data in memory
+aligned on certain boundries (usually the size of blocks that the computer can
+pull out at once).
+
+Alignment is not necessarily consistent.
+It can be aligned anywhere on 2, 4, 6, 8, or wierder numbers, depending on the
+processor and architecture.
+

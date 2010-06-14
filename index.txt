@@ -5,11 +5,10 @@ XHTML XSLT: xhtml-static-site
 
 ## Various oddments! ##
 
-[Currently playing stream](http://chaos.broken-mirror.net:8000/current.ogg). Contains whatever my music player at home is running. Isn't guarunteed to be on all the time.
+This is just a small corner of the web.
 
-This site is pretty much a placeholder until I can get something more
-interesting up and running. There's a [blog](http://blog.broken-mirror.net) if
-you're bored. I'm horrible at remembering to update it, though, so... eh.
+There's a [blog](http://blog.broken-mirror.net) if you're bored.
+I'm horrible at remembering to update it, though, so... eh.
 
 Other things here are pretty much snippets of stuff I pick up all over the
 place, and my notes on whatever I'm working on at the moment. It may be of

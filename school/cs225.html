@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1 plus MathML 2.0//EN" "http://www.w3.org/TR/MathML2/dtd/xhtml-math11-f.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head>
+		<!-- Processed by MultiMarkdown -->
+		<meta name="Author" content="Marcus Meng"/>
+		<link type="text/css" rel="stylesheet" href="http://static.broken-mirror.net/css/main.css"/>
+		<meta name="Format" content="complete"/>
+		<title>CS225</title>
+		<meta name="XHTMLXSLT" content="xhtml-static-site"/>
+	<!--#include virtual="/templates/head.html" --></head>
+<body><!--#include virtual="/templates/header.html" --><h1 class="page-title">CS225</h1>
+
+<h1 id="notes">Notes</h1>
+
+<h2 id="structalignment">Struct Alignment</h2>
+
+<p>Structs are evil and don’t necessarily add up to the size of the components.
+There are speed benefits in terms of data access to having data in memory
+aligned on certain boundries (usually the size of blocks that the computer can
+pull out at once).</p>
+
+<p>Alignment is not necessarily consistent.
+It can be aligned anywhere on 2, 4, 6, 8, or wierder numbers, depending on the
+processor and architecture.</p>
+<!--#include virtual="/templates/footer.html" --></body>
+</html>
